@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CRUDAPI/v15/.suo
+/.vs/CRUDAPI/v15
+/.vs/CRUDAPI/v14
+/.vs/config/applicationhost.config
+/CRUDAPI/bin
+/CRUDAPI/obj/Debug
+/packages
